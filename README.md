@@ -1,6 +1,7 @@
 # Motorsport Manager DLL Tweaks (v1.53.16967)
 ___
 ## Better Forecast
+![Better Forecast](thumbnail.jpg)
 * Shows current water/rubber percentage on track, giving you more control over the race
 * Water/rubber level forecast is now also shown in percentages, allowing you to plan pitstop strategies with much bigger precision
 
